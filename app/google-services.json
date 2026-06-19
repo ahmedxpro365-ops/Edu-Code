@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1036907201063",
+    "firebase_url": "https://edu-code-8630d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "edu-code-8630d",
+    "storage_bucket": "edu-code-8630d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036907201063:android:5e27d416f027bd95e9c402",
+        "android_client_info": {
+          "package_name": "com.educode.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSUjmoabyroWX1zcIuuMjvBHGk9VJkVr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

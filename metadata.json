@@ -1,0 +1,6 @@
+{
+  "name": "Edu Code",
+  "description": "انطلق في رحلتك البرمجية مع Edu-Code: بيئة تفاعلية، وتحديات ذكية، ومشاريع تبني مستقبلك البرمجي من الصفر إلى الاحتراف.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
